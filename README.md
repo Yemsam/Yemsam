@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yemsam
-- 👀 I’m interested in Deep Learning, Image Processing, Machine Learning, Big Data
-- 🌱 I’m currently learning Python, R programming languages
-- 💞️ I’m looking to collaborate on projects that will require my skills demonstration in the area of my interests
+- 👀 I’m front-end web developer. I use HTML, CSS, JavaScript for designs. I am learning React, Vue and Nodejs
+- 🌱 I'm a data analyist also. I use Power BI, Tableau, SQL, and Python.
+- 💞️ I’m looking to collaborate on projects that will require my skills demonstration in these areas.
 - 📫 How to reach me: send me a message on olayemi.olaoluwa@st.futminna.edu.ng or through any of these 
 
 https://www.facebook.com/solayemioluwa
